@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>Seasons Run</title>
+    <!--<script src="http://localhost:8080/socket.io/socket.io.js"></script>-->
+    <style>
+        /* following code make sure user won't see selection in the app */
+        body,
+        canvas,
+        div {
+            -moz-user-select: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+            -khtml-user-select: none;
+            -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        }
+        /* default styles for body */
+        body {
+            padding: 0;
+            margin: 0;
+            background: #000;
+        }
+    </style>
+</head>
+
+<body>
+    <canvas id="gameCanvas"></canvas>
+    <script src="cocos2d.js"></script>
+</body>
+
+</html>

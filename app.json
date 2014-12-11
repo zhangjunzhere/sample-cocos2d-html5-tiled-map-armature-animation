@@ -1,0 +1,17 @@
+{
+
+    "reponame": "cocos2d-html5-2.2-tiled-map-armature-animation-sample",
+    "title": "Cocos2d-html5 2.2 tiled map & armature animation sample",
+    "tooltip": "A sample of Cocos2d-html5 2.2 tiled map armature animation",
+    "description": "A game sample built using Cocos2d-html5 that teaches developer to use tiled map and armature animation.",
+    "articleUrl": "",
+    "keywords": ["Game", "Cocos2d"],
+    "visible": "true",
+    "type": "",
+    "highlights": ["Tiled Map", "Cocos2d", "Armature"],
+    "appname": "demo.Cocos2dHtml522TiledMapArmatureAnimationSample",
+    "abbr": "cc2tmxarm",
+    "relname": "4.0.0",
+    "apppreview": "true"
+
+}
